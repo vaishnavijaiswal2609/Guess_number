@@ -1,0 +1,15 @@
+🎮 How to Play
+
+
+The app picks a random number between 1 and 100
+Type your guess in the input field
+Hit Submit Guess → and get instant feedback:
+
+🔴 Too low — guess higher
+🟡 Too high — guess lower
+🟢 Correct — you win!
+
+
+
+Your guess history is tracked in real time
+Click ↺ New Game to start over anytime
