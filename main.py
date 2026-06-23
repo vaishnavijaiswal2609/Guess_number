@@ -12,5 +12,5 @@ try:
         else:
             print("Congratulations! You guessed the number!")
             break
-except ValueError:
+except ValueError as e:
     print("Invalid input! Please enter a valid number.")
